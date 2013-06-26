@@ -12,6 +12,7 @@ public:
 	int intel;
 	int hp;
 	int obr;
+	int mana;
 	int exp;
 };
 
